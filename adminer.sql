@@ -697,14 +697,14 @@ LOCK TABLES `teacher` WRITE;
 
 INSERT INTO `teacher` (`id`, `name`, `salary`)
 VALUES
-	(1,'Joe',39551.4),
+	(1,'Joe',48901),
 	(2,'Helen',27677.4),
 	(3,'Frank',20828.8),
 	(4,'Arthur',34068.8),
 	(5,'Susan',29761.7),
 	(6,'Gerald',34053.7),
 	(7,'Virginia',21250.1),
-	(8,'Donna',47268.8),
+	(8,'Donna',48901),
 	(9,'Jesse',37895.7),
 	(10,'Diane',39494.5),
 	(11,'Eugene',48901),
