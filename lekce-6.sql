@@ -45,7 +45,7 @@ VALUES
 	(3,3,'A',18),
 	(4,1,'A',12),
 	(5,2,'B',16),
-	(6,3,'A',19);
+	(6,3,'B',19);
 
 /*!40000 ALTER TABLE `class` ENABLE KEYS */;
 UNLOCK TABLES;
